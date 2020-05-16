@@ -1,4 +1,4 @@
-package com.test;
+package com.got;
 
 
 import org.springframework.boot.SpringApplication;
@@ -7,11 +7,10 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.web.socket.server.standard.ServerEndpointExporter;
 
 @SpringBootApplication
-public class MainSocket {
+public class StartPlayer {
 
     public static void main(String[] args) {
-
-        SpringApplication.run(MainSocket.class,args);
+        SpringApplication.run(StartPlayer.class, args);
     }
 
     @Bean

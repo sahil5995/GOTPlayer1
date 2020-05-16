@@ -13,7 +13,7 @@
     </parent>
 
 
-    <groupId>com.mywebsocket</groupId>
+    <groupId>com.ws.player1</groupId>
     <artifactId>GOTPlayer1</artifactId>
     <version>1.0-SNAPSHOT</version>
     <name>GOTPlayer1</name>
